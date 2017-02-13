@@ -1,4 +1,6 @@
 <keymap version="1" name="Default copy 0" parent="Mac OS X 10.5+">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateProjectToolWindow" />
   <action id="Console.TableResult.NavigateAction">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -8,6 +10,8 @@
   <action id="DomElementsTreeView.GotoDomElementDeclarationAction">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="DuplicatesForm.SendToRight" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -30,6 +34,8 @@
   <action id="ExpandLiveTemplateCustom">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
+  <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoProject" />
   <action id="FindPrevious" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta alt right" />
@@ -37,6 +43,14 @@
   </action>
   <action id="Jdbc.OpenTableEditor">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift alt tab" />
+    <keyboard-shortcut first-keystroke="meta 1" />
   </action>
   <action id="RecentFiles" />
   <action id="RemoteHostView.EditSource">
