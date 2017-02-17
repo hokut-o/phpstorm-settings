@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'lunda_cook'" />
     <option name="defaultScopeName" value="Project 'lunda_cook'" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'lunda_cook'" />
   </component>
 </application>
