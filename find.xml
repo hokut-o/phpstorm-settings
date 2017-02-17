@@ -2,8 +2,19 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'lunda_cook'" />
     <option name="defaultScopeName" value="Project 'lunda_cook'" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'lunda_cook'" />
+    <option name="FILE_MASK" value="*.css" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.mxml</mask>
+      <mask>*.php</mask>
+      <mask>*.css</mask>
+    </recentFileMasks>
   </component>
 </application>
