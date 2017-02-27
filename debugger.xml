@@ -1,7 +1,7 @@
 <application>
   <component name="XDebuggerSettings">
     <data-views>
-      <option name="valueLookupDelay" value="500" />
+      <option name="valueLookupDelay" value="300" />
     </data-views>
     <general />
     <debuggers>
