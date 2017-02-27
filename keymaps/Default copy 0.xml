@@ -33,13 +33,17 @@
   <action id="EditorIndentLineOrSelection">
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
-  <action id="EditorPageDown">
-    <keyboard-shortcut first-keystroke="page_down" />
+  <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
-  <action id="EditorPageUp">
-    <keyboard-shortcut first-keystroke="page_up" />
+  <action id="EditorTextEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="EditorTextStart">
     <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="EditorTextStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="shift tab" />
@@ -63,6 +67,8 @@
   <action id="Jdbc.OpenTableEditor">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
@@ -73,6 +79,8 @@
   <action id="RemoteHostView.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl meta o" />
   </action>
