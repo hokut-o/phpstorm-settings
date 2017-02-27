@@ -33,6 +33,9 @@
   <action id="EditorIndentLineOrSelection">
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
+  <action id="EditorJoinLines">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
@@ -45,12 +48,13 @@
   <action id="EditorTextStartWithSelection">
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
+  <action id="EditorToggleCase" />
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="shift tab" />
     <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
   <action id="EmmetUpdateTag">
-    <keyboard-shortcut first-keystroke="shift meta j" />
+    <keyboard-shortcut first-keystroke="shift meta u" />
   </action>
   <action id="ExpandLiveTemplateCustom">
     <keyboard-shortcut first-keystroke="meta e" />
@@ -89,6 +93,7 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="SendEOF" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShelvedChanges.Diff" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
