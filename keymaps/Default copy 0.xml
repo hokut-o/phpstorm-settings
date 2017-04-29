@@ -9,6 +9,10 @@
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.NavigateAction">
     <keyboard-shortcut first-keystroke="f4" />
@@ -32,7 +36,9 @@
   </action>
   <action id="EditorIndentLineOrSelection">
     <keyboard-shortcut first-keystroke="meta back_slash" />
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
+  <action id="EditorIndentSelection" />
   <action id="EditorJoinLines">
     <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
@@ -50,8 +56,7 @@
   </action>
   <action id="EditorToggleCase" />
   <action id="EditorUnindentSelection">
-    <keyboard-shortcut first-keystroke="shift tab" />
-    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
   <action id="EmmetUpdateTag">
     <keyboard-shortcut first-keystroke="shift meta u" />
