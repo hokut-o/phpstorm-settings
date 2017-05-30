@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jade" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -22,11 +23,12 @@
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.ja</mask>
-      <mask>*.jade</mask>
       <mask>*.s</mask>
       <mask>*.st</mask>
       <mask>*.sty</mask>
       <mask>*.styl</mask>
+      <mask>*.jad</mask>
+      <mask>*.jade</mask>
     </recentFileMasks>
   </component>
 </application>
