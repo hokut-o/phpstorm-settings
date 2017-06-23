@@ -13,6 +13,9 @@
     <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="CodicPluginQuickLookAction">
+    <keyboard-shortcut first-keystroke="meta alt c" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.NavigateAction">
     <keyboard-shortcut first-keystroke="f4" />
@@ -73,6 +76,7 @@
     <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="IntroduceConstant" />
   <action id="Jdbc.OpenTableEditor">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
