@@ -18,17 +18,17 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.jade</mask>
       <mask>*.jad</mask>
       <mask>*.ja</mask>
       <mask>*.jsx</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.st</mask>
-      <mask>*.sty</mask>
       <mask>*.styl</mask>
+      <mask>*.sty</mask>
+      <mask>*.st</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.jade</mask>
     </recentFileMasks>
   </component>
 </application>
