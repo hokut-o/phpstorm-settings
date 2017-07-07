@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.jsx" />
+    <option name="FILE_MASK" value="*.styl" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -26,14 +26,14 @@
       <mask>*.ｓｔ</mask>
       <mask>*.ｓｔｙ</mask>
       <mask>*.ｓｔｙｌ</mask>
-      <mask>*.styl</mask>
-      <mask>*.sty</mask>
-      <mask>*.st</mask>
-      <mask>*.s</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*.jsx</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.st</mask>
+      <mask>*.sty</mask>
+      <mask>*.styl</mask>
     </recentFileMasks>
   </component>
 </application>
