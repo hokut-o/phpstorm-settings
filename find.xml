@@ -3,9 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.styl" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
@@ -25,15 +23,17 @@
       <mask>*.jsx</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.jad</mask>
-      <mask>*.jade</mask>
       <mask>*.s</mask>
       <mask>*.st</mask>
       <mask>*.sty</mask>
       <mask>*.stylus</mask>
       <mask>*.stylu</mask>
       <mask>*.styl</mask>
+      <mask>*.ha</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*.jade</mask>
     </recentFileMasks>
   </component>
 </application>
