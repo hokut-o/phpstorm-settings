@@ -16,7 +16,6 @@
       <mask>*.stylus</mask>
       <mask>*.stylu</mask>
       <mask>*.j</mask>
-      <mask>*.jade</mask>
       <mask>*.jade *.jade</mask>
       <mask>*.jade *.ja</mask>
       <mask>*.jade *.j</mask>
@@ -34,6 +33,7 @@
       <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.jad</mask>
+      <mask>*.jade</mask>
       <mask>*.jade</mask>
     </recentFileMasks>
   </component>
