@@ -46,6 +46,7 @@
   <action id="EditorJoinLines">
     <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
+  <action id="EditorPasteSimple" />
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
@@ -85,6 +86,7 @@
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="NextSplitter" />
+  <action id="PasteMultiple" />
   <action id="PrevSplitter" />
   <action id="RecentFiles" />
   <action id="RemoteHostView.EditSource">
