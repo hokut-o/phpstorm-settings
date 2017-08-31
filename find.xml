@@ -23,17 +23,17 @@
       <mask>*.jad</mask>
       <mask>*.syl</mask>
       <mask>*.sy</mask>
-      <mask>*.jade</mask>
-      <mask>*.jade</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.st</mask>
       <mask>*.sty</mask>
       <mask>*.stylu</mask>
       <mask>*.stylus</mask>
       <mask>*.styl</mask>
+      <mask>*.st</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.jade</mask>
+      <mask>*.jade</mask>
     </recentFileMasks>
   </component>
 </application>
