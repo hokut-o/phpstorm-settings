@@ -4,6 +4,7 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
     <option name="wallpaper" value="$USER_HOME$/dev/phpstorm-settings/wallpaper/tycho_dive_planet_art_background_99782_3840x2400.jpg" />
+    <option name="tabsHeight" value="50" />
     <option name="defaultBackground" value="$USER_HOME$/dev/phpstorm-settings/wallpaper/tycho_dive_planet_art_background_99782_3840x2400.jpg" />
   </component>
 </application>
