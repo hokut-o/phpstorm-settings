@@ -34,6 +34,8 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorCodeBlockStart" />
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="shift meta d" />
@@ -136,6 +138,12 @@
   </action>
   <action id="TabShiftActions.ShiftRight">
     <keyboard-shortcut first-keystroke="meta alt 3" />
+  </action>
+  <action id="TabShiftActions.StretchLeft">
+    <keyboard-shortcut first-keystroke="meta alt open_bracket" />
+  </action>
+  <action id="TabShiftActions.StretchRight">
+    <keyboard-shortcut first-keystroke="meta alt close_bracket" />
   </action>
   <action id="TableResult.GrowSelection">
     <keyboard-shortcut first-keystroke="alt up" />
