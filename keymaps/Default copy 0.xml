@@ -85,11 +85,18 @@
   <action id="Jdbc.OpenTableEditor">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="JumpToLastWindow" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="NextDiff">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
   <action id="NextSplitter" />
   <action id="PasteMultiple" />
   <action id="PrevSplitter" />
+  <action id="PreviousDiff">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
   <action id="RecentFiles" />
   <action id="RemoteHostView.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
