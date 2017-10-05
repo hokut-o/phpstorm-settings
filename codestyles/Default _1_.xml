@@ -4,6 +4,7 @@
   </CssCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
+    <option name="INDENT_CHAINED_CALLS" value="false" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
@@ -32,6 +33,7 @@
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Jade">
