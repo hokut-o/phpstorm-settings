@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jade" />
     <recentFileMasks>
       <mask>*.jade *.</mask>
       <mask>*.jade *.s</mask>
@@ -16,7 +17,6 @@
       <mask>*.stylu</mask>
       <mask>*.stylus</mask>
       <mask>*.jad</mask>
-      <mask>*.ja</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.sc</mask>
@@ -27,13 +27,14 @@
       <mask>*.p</mask>
       <mask>*.j</mask>
       <mask>*.*</mask>
-      <mask>*.</mask>
-      <mask>*.jade</mask>
-      <mask>*.jade</mask>
-      <mask>*.s</mask>
-      <mask>*.st</mask>
-      <mask>*.sty</mask>
       <mask>*.styl</mask>
+      <mask>*.sty</mask>
+      <mask>*.st</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.jade</mask>
+      <mask>*.jade</mask>
     </recentFileMasks>
   </component>
 </application>
