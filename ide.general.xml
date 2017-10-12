@@ -7,5 +7,7 @@
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="ide.tooltip.initialDelay" value="92" />
     <entry key="search.everywhere.settings" value="true" />
+    <entry key="undo.documentUndoLimit" value="1000" />
+    <entry key="undo.globalUndoLimit" value="1000" />
   </component>
 </application>

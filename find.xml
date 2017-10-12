@@ -4,9 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.jade *.ja</mask>
-      <mask>*.jade *.j</mask>
-      <mask>*.jade *.</mask>
       <mask>*.jade *.s</mask>
       <mask>*.jade *.st</mask>
       <mask>*.jade *.sty</mask>
@@ -18,22 +15,25 @@
       <mask>*.stylu</mask>
       <mask>*.stylus</mask>
       <mask>*.jad</mask>
-      <mask>*.st</mask>
-      <mask>*.sty</mask>
-      <mask>*.styl</mask>
-      <mask>*.jade</mask>
-      <mask>*.jade</mask>
-      <mask>*.ja</mask>
+      <mask>*.pug</mask>
+      <mask>*.p</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
+      <mask>*.*</mask>
+      <mask>*.styl</mask>
+      <mask>*.sty</mask>
+      <mask>*.st</mask>
+      <mask>*.ja</mask>
+      <mask>*.jade</mask>
+      <mask>*.jade</mask>
+      <mask>*.sass</mask>
+      <mask>*.sas</mask>
+      <mask>*.sa</mask>
+      <mask>*.c</mask>
       <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
-      <mask>*.sa</mask>
-      <mask>*.sas</mask>
-      <mask>*.sass</mask>
-      <mask>*.pug</mask>
+      <mask>*.</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
