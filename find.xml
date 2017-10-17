@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.styl" />
     <recentFileMasks>
       <mask>*.jade *.s</mask>
       <mask>*.jade *.st</mask>
@@ -14,8 +15,6 @@
       <mask>*.jade | *.styl</mask>
       <mask>*.syl</mask>
       <mask>*.sy</mask>
-      <mask>*.stylu</mask>
-      <mask>*.stylus</mask>
       <mask>*.jad</mask>
       <mask>*.p</mask>
       <mask>*.j</mask>
@@ -31,11 +30,13 @@
       <mask>*.sc</mask>
       <mask>*.</mask>
       <mask>*.scss</mask>
+      <mask>*.pug</mask>
       <mask>*.s</mask>
       <mask>*.st</mask>
       <mask>*.sty</mask>
+      <mask>*.stylus</mask>
+      <mask>*.stylu</mask>
       <mask>*.styl</mask>
-      <mask>*.pug</mask>
     </recentFileMasks>
   </component>
 </application>
