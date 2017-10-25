@@ -9,7 +9,6 @@
       <mask>*.jade |*.styl</mask>
       <mask>*.jade | *.styl</mask>
       <mask>*.syl</mask>
-      <mask>*.sy</mask>
       <mask>*.jad</mask>
       <mask>*.p</mask>
       <mask>*.j</mask>
@@ -25,15 +24,16 @@
       <mask>*.sc</mask>
       <mask>*.</mask>
       <mask>*.scss</mask>
-      <mask>*.s</mask>
-      <mask>*.st</mask>
-      <mask>*.sty</mask>
       <mask>*.stylus</mask>
       <mask>*.stylu</mask>
-      <mask>*.styl</mask>
       <mask>*.js</mask>
       <mask>*.jsx</mask>
       <mask>*.pug</mask>
+      <mask>*.sy</mask>
+      <mask>*.s</mask>
+      <mask>*.st</mask>
+      <mask>*.sty</mask>
+      <mask>*.styl</mask>
     </recentFileMasks>
   </component>
 </application>
