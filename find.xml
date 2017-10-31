@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.styl" />
+    <option name="FILE_MASK" value="*.pug" />
     <recentFileMasks>
       <mask>*.jade *.sty</mask>
       <mask>*.jade *.styl</mask>
@@ -29,12 +29,12 @@
       <mask>*.stylu</mask>
       <mask>*.js</mask>
       <mask>*.jsx</mask>
-      <mask>*.pug</mask>
       <mask>*.sy</mask>
       <mask>*.s</mask>
       <mask>*.st</mask>
       <mask>*.sty</mask>
       <mask>*.styl</mask>
+      <mask>*.pug</mask>
     </recentFileMasks>
   </component>
 </application>
