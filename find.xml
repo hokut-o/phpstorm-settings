@@ -9,7 +9,6 @@
       <mask>*.jade | *.styl</mask>
       <mask>*.syl</mask>
       <mask>*.jad</mask>
-      <mask>*.p</mask>
       <mask>*.*</mask>
       <mask>*.ja</mask>
       <mask>*.jade</mask>
@@ -29,8 +28,9 @@
       <mask>*.j</mask>
       <mask>*.ug</mask>
       <mask>*.u</mask>
-      <mask>*.</mask>
       <mask>*.pug</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.st</mask>
       <mask>*.sty</mask>
