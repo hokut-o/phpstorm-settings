@@ -29,11 +29,11 @@
       <mask>*.u</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
+      <mask>*.pug</mask>
       <mask>*.s</mask>
       <mask>*.st</mask>
       <mask>*.sty</mask>
       <mask>*.styl</mask>
-      <mask>*.pug</mask>
     </recentFileMasks>
   </component>
 </application>
