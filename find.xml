@@ -4,36 +4,36 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.jade *.s</mask>
-      <mask>*.jade *.st</mask>
-      <mask>*.jade *.sty</mask>
-      <mask>*.jade *.styl</mask>
-      <mask>*.jade |*.styl</mask>
-      <mask>*.jade | *.styl</mask>
       <mask>*.syl</mask>
-      <mask>*.sy</mask>
-      <mask>*.stylu</mask>
-      <mask>*.stylus</mask>
-      <mask>*.jad</mask>
-      <mask>*.pug</mask>
-      <mask>*.p</mask>
-      <mask>*.j</mask>
       <mask>*.*</mask>
-      <mask>*.styl</mask>
-      <mask>*.sty</mask>
-      <mask>*.st</mask>
-      <mask>*.ja</mask>
-      <mask>*.jade</mask>
-      <mask>*.jade</mask>
       <mask>*.sass</mask>
       <mask>*.sas</mask>
       <mask>*.sa</mask>
       <mask>*.c</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
-      <mask>*.s</mask>
-      <mask>*.</mask>
       <mask>*.scss</mask>
+      <mask>*.stylus</mask>
+      <mask>*.stylu</mask>
+      <mask>*.jsx</mask>
+      <mask>*.sy</mask>
+      <mask>*.ug</mask>
+      <mask>*.u</mask>
+      <mask>*.p</mask>
+      <mask>*.pug</mask>
+      <mask>*.pu</mask>
+      <mask>*.jad</mask>
+      <mask>*.jade</mask>
+      <mask>*.jade</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.st</mask>
+      <mask>*.sty</mask>
+      <mask>*.styl</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
