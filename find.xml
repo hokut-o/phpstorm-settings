@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.syl</mask>
       <mask>*.*</mask>
@@ -23,16 +24,16 @@
       <mask>*.pug</mask>
       <mask>*.pu</mask>
       <mask>*.jad</mask>
-      <mask>*.jade</mask>
-      <mask>*.jade</mask>
-      <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.st</mask>
       <mask>*.sty</mask>
       <mask>*.styl</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.jade</mask>
+      <mask>*.jade</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
