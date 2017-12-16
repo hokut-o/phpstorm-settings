@@ -17,21 +17,21 @@
       <mask>*.sy</mask>
       <mask>*.ug</mask>
       <mask>*.u</mask>
-      <mask>*</mask>
-      <mask>*.js</mask>
       <mask>*.jade</mask>
       <mask>*.jade</mask>
       <mask>*.jad</mask>
       <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.styk</mask>
       <mask>*.stylu</mask>
       <mask>*.pu</mask>
-      <mask>*.p</mask>
+      <mask>*</mask>
       <mask>*.sty</mask>
       <mask>*.styl</mask>
       <mask>*.st</mask>
       <mask>*.s</mask>
+      <mask>*.p</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.pug</mask>
     </recentFileMasks>
