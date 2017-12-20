@@ -1,11 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="1.4.1" />
+    <option name="version" value="1.4.4" />
     <option name="selectedTheme" value="DARKER" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
     <option name="accentColor" value="80cbc4" />
     <option name="tabsHeight" value="50" />
-    <option name="defaultBackground" value="$USER_HOME$/dev/phpstorm-settings/wallpaper/tycho_dive_planet_art_background_99782_3840x2400.jpg" />
   </component>
 </application>

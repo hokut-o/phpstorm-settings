@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.pug" />
     <recentFileMasks>
-      <mask>*.*</mask>
       <mask>*.sass</mask>
       <mask>*.sas</mask>
       <mask>*.sa</mask>
@@ -25,14 +25,15 @@
       <mask>*.stylu</mask>
       <mask>*.pu</mask>
       <mask>*</mask>
-      <mask>*.sty</mask>
-      <mask>*.styl</mask>
-      <mask>*.st</mask>
-      <mask>*.s</mask>
       <mask>*.p</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
+      <mask>*.w</mask>
       <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.st</mask>
+      <mask>*.sty</mask>
+      <mask>*.styl</mask>
       <mask>*.pug</mask>
     </recentFileMasks>
   </component>
