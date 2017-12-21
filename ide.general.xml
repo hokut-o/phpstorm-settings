@@ -9,7 +9,7 @@
     <entry key="search.everywhere.settings" value="true" />
     <entry key="undo.documentUndoLimit" value="1000" />
     <entry key="undo.globalUndoLimit" value="1000" />
-    <entry key="bigger.font.in.project.view" value="true" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
+    <entry key="bigger.font.in.project.view" value="true" />
   </component>
 </application>
