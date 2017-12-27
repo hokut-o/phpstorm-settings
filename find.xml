@@ -25,14 +25,14 @@
       <mask>*.stylu</mask>
       <mask>*</mask>
       <mask>*.w</mask>
-      <mask>*.s</mask>
-      <mask>*.st</mask>
-      <mask>*.styl</mask>
-      <mask>*.sty</mask>
-      <mask>*.pu</mask>
-      <mask>*.p</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
+      <mask>*.pu</mask>
+      <mask>*.p</mask>
+      <mask>*.styl</mask>
+      <mask>*.sty</mask>
+      <mask>*.st</mask>
+      <mask>*.s</mask>
       <mask>*.</mask>
       <mask>*.pug</mask>
     </recentFileMasks>
