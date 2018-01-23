@@ -33,9 +33,9 @@
       <mask>*。ｓｔ</mask>
       <mask>*。ｓｔｙ</mask>
       <mask>*。ｓｔｙｌ</mask>
-      <mask>*.styl</mask>
       <mask>*.s</mask>
       <mask>*.</mask>
+      <mask>*.styl</mask>
       <mask>*.*</mask>
     </recentFileMasks>
   </component>
