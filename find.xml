@@ -5,9 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.pug" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>*.sy</mask>
       <mask>*.ug</mask>
       <mask>*.u</mask>
       <mask>*.jade</mask>
@@ -37,6 +36,7 @@
       <mask>*.js</mask>
       <mask>*.*</mask>
       <mask>*.pug</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
