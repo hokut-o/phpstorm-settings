@@ -16,8 +16,8 @@
     <mask>*.html</mask>
     <mask>*.php</mask>
     <mask>*.styl</mask>
-    <mask>*.pug</mask>
     <mask>*.*</mask>
+    <mask>*.pug</mask>
     <mask>*.js</mask>
   </component>
 </application>
