@@ -2,41 +2,22 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
-    <recentFileMasks>
-      <mask>*.jade</mask>
-      <mask>*.jade</mask>
-      <mask>*.jad</mask>
-      <mask>*.ja</mask>
-      <mask>*.styk</mask>
-      <mask>*.stylu</mask>
-      <mask>*.w</mask>
-      <mask>*/</mask>
-      <mask>*.puf</mask>
-      <mask>*pug</mask>
-      <mask>*.st</mask>
-      <mask>*.sty</mask>
-      <mask>*.p</mask>
-      <mask>*.j</mask>
-      <mask>*.pu</mask>
-      <mask>*</mask>
-      <mask>*。</mask>
-      <mask>*。ｓ</mask>
-      <mask>*。ｓｔ</mask>
-      <mask>*。ｓｔｙ</mask>
-      <mask>*。ｓｔｙｌ</mask>
-      <mask>*.s</mask>
-      <mask>*.css</mask>
-      <mask>*.</mask>
-      <mask>*.scss</mask>
-      <mask>*.styl</mask>
-      <mask>*.js</mask>
-      <mask>*.pug</mask>
-      <mask>*.php</mask>
-      <mask>*.*</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.js" />
+    <mask>*.properties</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.scss</mask>
+    <mask>*.sass</mask>
+    <mask>*.html</mask>
+    <mask>*.php</mask>
+    <mask>*.styl</mask>
+    <mask>*.*</mask>
+    <mask>*.pug</mask>
+    <mask>*.js</mask>
   </component>
 </application>
