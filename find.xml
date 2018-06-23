@@ -2,20 +2,26 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.php</mask>
-      <mask>*.*</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.styl" />
+    <mask>*.properties</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.sass</mask>
+    <mask>*.html</mask>
+    <mask>*.</mask>
+    <mask>*.blade.php</mask>
+    <mask>*.scss</mask>
+    <mask>*.js</mask>
+    <mask>*.*</mask>
+    <mask>*.pug</mask>
+    <mask>*.php</mask>
+    <mask>*.styl</mask>
   </component>
 </application>
