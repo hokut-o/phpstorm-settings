@@ -4,7 +4,7 @@
     <property name="created">2017-02-02T10:08:30</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2018-08-08T10:16:51</property>
+    <property name="modified">2018-08-08T10:18:56</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -15,7 +15,7 @@
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
     <option name="CONSOLE_BACKGROUND_KEY" value="0" />
-    <option name="GUTTER_BACKGROUND" value="272821" />
+    <option name="GUTTER_BACKGROUND" value="1b1b1b" />
     <option name="INDENT_GUIDE" value="3b3a32" />
     <option name="LINE_NUMBERS_COLOR" value="f8f8f2" />
     <option name="SELECTED_INDENT_GUIDE" value="3b3a32" />
@@ -59332,7 +59332,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
-        <option name="BACKGROUND" value="151515" />
+        <option name="BACKGROUND" value="0" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
