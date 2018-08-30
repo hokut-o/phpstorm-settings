@@ -88,6 +88,9 @@
     <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="HideAllWindows" />
   <action id="IntroduceConstant" />
   <action id="Jdbc.OpenTableEditor">
@@ -184,6 +187,7 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="Vcs.UpdateProject" />
   <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.JumpToSource">
     <keyboard-shortcut first-keystroke="f4" />
