@@ -17,9 +17,9 @@
     <mask>*.scss</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
+    <mask>*.md</mask>
     <mask>*.styl</mask>
     <mask>*.php</mask>
-    <mask>*.md</mask>
     <mask>*.pug</mask>
     <mask>*.*</mask>
   </component>

@@ -88,6 +88,9 @@
     <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="HideAllWindows" />
   <action id="IntroduceConstant" />
   <action id="Jdbc.OpenTableEditor">
@@ -125,6 +128,12 @@
   <action id="SendEOF" />
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShelvedChanges.Diff" />
+  <action id="ShiftDownAction">
+    <keyboard-shortcut first-keystroke="shift meta alt down" />
+  </action>
+  <action id="ShiftUpAction">
+    <keyboard-shortcut first-keystroke="shift meta alt up" />
+  </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
@@ -164,18 +173,14 @@
   <action id="TabShiftActions.ShiftRight">
     <keyboard-shortcut first-keystroke="meta alt 3" />
   </action>
-  <action id="TabShiftActions.StretchDown">
-    <keyboard-shortcut first-keystroke="shift meta alt down" />
-  </action>
+  <action id="TabShiftActions.StretchDown" />
   <action id="TabShiftActions.StretchLeft">
     <keyboard-shortcut first-keystroke="shift meta alt left" />
   </action>
   <action id="TabShiftActions.StretchRight">
     <keyboard-shortcut first-keystroke="shift meta alt right" />
   </action>
-  <action id="TabShiftActions.StretchUp">
-    <keyboard-shortcut first-keystroke="shift meta alt up" />
-  </action>
+  <action id="TabShiftActions.StretchUp" />
   <action id="TableResult.GrowSelection">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
@@ -184,6 +189,7 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="Vcs.UpdateProject" />
   <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.JumpToSource">
     <keyboard-shortcut first-keystroke="f4" />
