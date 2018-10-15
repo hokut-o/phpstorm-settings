@@ -4,7 +4,7 @@
     <property name="created">2017-02-02T10:08:30</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2018-10-15T16:15:18</property>
+    <property name="modified">2018-10-15T18:14:14</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -2062,19 +2062,19 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_ATX_MARKER">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_SETEXT_MARKER">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -2087,13 +2087,13 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_MARKER">
       <value>
-        <option name="FOREGROUND" value="83474e" />
+        <option name="FOREGROUND" value="a3447d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -2106,7 +2106,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -2119,7 +2119,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -2132,7 +2132,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -2145,7 +2145,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -2191,7 +2191,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -2237,7 +2237,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_SUBSCRIPT_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -2250,7 +2250,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_SUBSCRIPT_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -2263,7 +2263,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -2276,7 +2276,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -2289,7 +2289,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -2335,7 +2335,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_SUBSCRIPT_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -2381,7 +2381,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_SUPERSCRIPT_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -2394,7 +2394,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_SUPERSCRIPT_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -2407,7 +2407,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_SUPERSCRIPT_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -2420,7 +2420,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_SUPERSCRIPT_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -2433,7 +2433,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_SUPERSCRIPT_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -2479,7 +2479,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_SUPERSCRIPT_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -2525,7 +2525,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -2538,7 +2538,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -2551,7 +2551,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -2564,7 +2564,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -2577,7 +2577,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -2623,7 +2623,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -2669,7 +2669,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_UNDERLINE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -2683,7 +2683,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_UNDERLINE_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -2696,7 +2696,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_UNDERLINE_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -2709,7 +2709,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_UNDERLINE_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -2722,7 +2722,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_UNDERLINE_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -2768,7 +2768,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_UNDERLINE_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -2814,7 +2814,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUBSCRIPT_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -2827,7 +2827,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUBSCRIPT_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -2840,7 +2840,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -2853,7 +2853,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -2866,7 +2866,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -2912,7 +2912,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUBSCRIPT_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -2958,7 +2958,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -2971,7 +2971,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -2984,7 +2984,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -2997,7 +2997,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -3010,7 +3010,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -3056,7 +3056,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -3102,7 +3102,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -3115,7 +3115,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -3128,7 +3128,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -3141,7 +3141,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -3154,7 +3154,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -3200,7 +3200,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -3246,33 +3246,33 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_CODE_MARKER">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_COMMENT">
       <value>
-        <option name="FOREGROUND" value="595e6b" />
+        <option name="FOREGROUND" value="6e5a56" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_EMOJI_ID">
       <value>
-        <option name="FOREGROUND" value="486b68" />
+        <option name="FOREGROUND" value="59689d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_EMOJI_MARKER">
       <value>
-        <option name="FOREGROUND" value="83474e" />
+        <option name="FOREGROUND" value="a3447d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -4238,19 +4238,19 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_HTML_ENTITY">
       <value>
-        <option name="FOREGROUND" value="806672" />
+        <option name="FOREGROUND" value="9f634b" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_ITALIC_MARKER">
       <value>
-        <option name="FOREGROUND" value="478082" />
+        <option name="FOREGROUND" value="587d6e" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -4263,7 +4263,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -4276,7 +4276,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -4322,7 +4322,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -4362,7 +4362,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_QUOTE_MARKER">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -4381,20 +4381,20 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_SPECIAL_TEXT_MARKER">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="4c174d" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_MARKER">
       <value>
-        <option name="FOREGROUND" value="478082" />
+        <option name="FOREGROUND" value="587d6e" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -4409,7 +4409,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -4424,7 +4424,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -4441,7 +4441,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -4456,7 +4456,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -4473,7 +4473,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -4531,7 +4531,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -4589,7 +4589,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_SUBSCRIPT_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -4604,7 +4604,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_SUBSCRIPT_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -4621,7 +4621,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -4636,7 +4636,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -4653,7 +4653,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -4711,7 +4711,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_SUBSCRIPT_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -4769,7 +4769,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_SUPERSCRIPT_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -4784,7 +4784,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_SUPERSCRIPT_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -4801,7 +4801,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_SUPERSCRIPT_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -4816,7 +4816,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_SUPERSCRIPT_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -4833,7 +4833,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_SUPERSCRIPT_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -4891,7 +4891,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_SUPERSCRIPT_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -4949,7 +4949,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -4964,7 +4964,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -4981,7 +4981,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -4996,7 +4996,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -5013,7 +5013,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -5071,7 +5071,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -5129,7 +5129,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_UNDERLINE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -5144,7 +5144,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_UNDERLINE_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -5161,7 +5161,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_UNDERLINE_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -5176,7 +5176,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_UNDERLINE_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -5193,7 +5193,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_UNDERLINE_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -5251,7 +5251,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_UNDERLINE_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -5309,7 +5309,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUBSCRIPT_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -5324,7 +5324,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUBSCRIPT_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -5341,7 +5341,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -5356,7 +5356,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -5373,7 +5373,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -5431,7 +5431,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUBSCRIPT_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -5489,7 +5489,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -5504,7 +5504,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -5521,7 +5521,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -5536,7 +5536,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -5553,7 +5553,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -5611,7 +5611,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -5669,7 +5669,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -5684,7 +5684,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -5701,7 +5701,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -5716,7 +5716,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -5733,7 +5733,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -5791,7 +5791,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_BOLD_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -5849,7 +5849,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -5866,7 +5866,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -5881,7 +5881,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -5898,7 +5898,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -5956,7 +5956,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -6014,7 +6014,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_SUBSCRIPT_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -6029,7 +6029,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_SUBSCRIPT_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -6046,7 +6046,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -6061,7 +6061,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -6078,7 +6078,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -6136,7 +6136,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_SUBSCRIPT_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -6194,7 +6194,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_SUPERSCRIPT_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -6209,7 +6209,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_SUPERSCRIPT_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -6226,7 +6226,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_SUPERSCRIPT_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -6241,7 +6241,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_SUPERSCRIPT_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -6258,7 +6258,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_SUPERSCRIPT_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -6316,7 +6316,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_SUPERSCRIPT_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -6374,7 +6374,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -6389,7 +6389,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -6406,7 +6406,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -6421,7 +6421,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -6438,7 +6438,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -6496,7 +6496,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -6554,7 +6554,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_UNDERLINE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -6569,7 +6569,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -6586,7 +6586,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -6601,7 +6601,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -6618,7 +6618,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -6676,7 +6676,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -6734,7 +6734,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_SUBSCRIPT_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -6749,7 +6749,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_SUBSCRIPT_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -6766,7 +6766,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -6781,7 +6781,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -6798,7 +6798,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -6856,7 +6856,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_SUBSCRIPT_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -6914,7 +6914,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -6929,7 +6929,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -6946,7 +6946,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -6961,7 +6961,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -6978,7 +6978,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -7036,7 +7036,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -7094,7 +7094,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -7109,7 +7109,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -7126,7 +7126,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -7141,7 +7141,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -7158,7 +7158,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -7216,7 +7216,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_STRIKETHROUGH_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b33e6b" />
@@ -7274,13 +7274,13 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_SUBSCRIPT_MARKER">
       <value>
-        <option name="FOREGROUND" value="83474e" />
+        <option name="FOREGROUND" value="a3447d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_SUBSCRIPT_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -7293,7 +7293,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_SUBSCRIPT_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -7306,7 +7306,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -7319,7 +7319,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -7332,7 +7332,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -7378,7 +7378,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_SUBSCRIPT_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -7424,13 +7424,13 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_SUPERSCRIPT_MARKER">
       <value>
-        <option name="FOREGROUND" value="83474e" />
+        <option name="FOREGROUND" value="a3447d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_SUPERSCRIPT_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -7443,7 +7443,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_SUPERSCRIPT_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -7456,7 +7456,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_SUPERSCRIPT_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -7469,7 +7469,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_SUPERSCRIPT_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -7482,7 +7482,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_SUPERSCRIPT_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -7528,7 +7528,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_SUPERSCRIPT_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -7574,7 +7574,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -7587,7 +7587,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -7600,7 +7600,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -7613,7 +7613,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -7626,7 +7626,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -7672,7 +7672,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -7718,13 +7718,13 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_UNDERLINE_MARKER">
       <value>
-        <option name="FOREGROUND" value="83474e" />
+        <option name="FOREGROUND" value="a3447d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_UNDERLINE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -7738,7 +7738,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_UNDERLINE_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -7751,7 +7751,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_UNDERLINE_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -7764,7 +7764,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_UNDERLINE_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -7777,7 +7777,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_UNDERLINE_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -7823,7 +7823,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_UNDERLINE_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -7869,7 +7869,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_UNDERLINE_TEXT_SUBSCRIPT_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -7882,7 +7882,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_UNDERLINE_TEXT_SUBSCRIPT_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -7895,7 +7895,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_UNDERLINE_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -7908,7 +7908,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_UNDERLINE_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -7921,7 +7921,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_UNDERLINE_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -7967,7 +7967,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_UNDERLINE_TEXT_SUBSCRIPT_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -8013,7 +8013,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -8026,7 +8026,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -8039,7 +8039,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -8052,7 +8052,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -8065,7 +8065,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -8111,7 +8111,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -8157,7 +8157,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -8170,7 +8170,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -8183,7 +8183,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -8196,7 +8196,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_CODE_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -8209,7 +8209,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="3" />
       </value>
@@ -8255,7 +8255,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_UNDERLINE_TEXT_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_QUOTED_TEXT">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="2e4d34" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -8301,7 +8301,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HRULE">
       <value>
-        <option name="FOREGROUND" value="b33e6b" />
+        <option name="FOREGROUND" value="e23842" />
         <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="1" />
       </value>
