@@ -21,8 +21,8 @@
     <mask>*.scss</mask>
     <mask>*.*</mask>
     <mask>*.php</mask>
-    <mask>*.pug</mask>
     <mask>*.styl</mask>
+    <mask>*.pug</mask>
     <mask>*.js</mask>
   </component>
 </application>
