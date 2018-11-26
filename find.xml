@@ -19,8 +19,8 @@
     <mask>*.sass</mask>
     <mask>*.styl</mask>
     <mask>*.js</mask>
-    <mask>*.*</mask>
     <mask>*.pug</mask>
+    <mask>*.*</mask>
     <mask>*.php</mask>
   </component>
 </application>
