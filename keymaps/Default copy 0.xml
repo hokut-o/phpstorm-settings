@@ -15,6 +15,7 @@
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
   <action id="CodicPluginQuickLookAction">
     <keyboard-shortcut first-keystroke="shift meta c" />
@@ -85,6 +86,7 @@
   <action id="FindPrevious" />
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta t" />
@@ -193,10 +195,4 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="openAssertEqualsDiff" />
-  <action id="osmedile.intellij.stringmanip.DecrementAction">
-    <keyboard-shortcut first-keystroke="meta alt left" />
-  </action>
-  <action id="osmedile.intellij.stringmanip.IncrementAction">
-    <keyboard-shortcut first-keystroke="meta alt right" />
-  </action>
 </keymap>
