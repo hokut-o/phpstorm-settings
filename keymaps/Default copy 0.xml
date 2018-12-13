@@ -14,7 +14,6 @@
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="Back">
-    <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
   </action>
   <action id="CodicPluginQuickLookAction">
@@ -85,7 +84,6 @@
   <action id="FileStructurePopup" />
   <action id="FindPrevious" />
   <action id="Forward">
-    <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
   </action>
   <action id="GotoLine">
@@ -195,4 +193,10 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="openAssertEqualsDiff" />
+  <action id="osmedile.intellij.stringmanip.DecrementAction">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.IncrementAction">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
 </keymap>
