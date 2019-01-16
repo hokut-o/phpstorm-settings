@@ -21,9 +21,9 @@
     <mask>*.sass</mask>
     <mask>*.yaml</mask>
     <mask>*.php</mask>
-    <mask>*.pug</mask>
     <mask>*.styl</mask>
     <mask>*.js</mask>
+    <mask>*.pug</mask>
     <mask>*.*</mask>
   </component>
 </application>
