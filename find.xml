@@ -4,7 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -20,9 +20,9 @@
     <mask>*.yaml</mask>
     <mask>*.styl</mask>
     <mask>*.*</mask>
-    <mask>*.php</mask>
     <mask>*.scss</mask>
     <mask>*.pug</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
