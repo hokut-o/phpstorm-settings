@@ -4,13 +4,12 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.blade.php</mask>
     <mask>*.md</mask>
@@ -22,7 +21,8 @@
     <mask>*.*</mask>
     <mask>*.styl</mask>
     <mask>*.js</mask>
-    <mask>*.php</mask>
     <mask>*.scss</mask>
+    <mask>*.css</mask>
+    <mask>*.php</mask>
   </component>
 </application>
