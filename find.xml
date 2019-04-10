@@ -20,8 +20,8 @@
     <mask>*.*</mask>
     <mask>*.scss</mask>
     <mask>*.pug</mask>
-    <mask>*.js</mask>
     <mask>*.sass</mask>
+    <mask>*.js</mask>
     <mask>*.php</mask>
   </component>
 </application>
