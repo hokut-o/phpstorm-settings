@@ -97,6 +97,9 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="JumpToLastWindow" />
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
   <action id="MoveElementLeft" />
   <action id="MoveElementRight" />
   <action id="MoveStatementDown" />
@@ -115,6 +118,9 @@
   <action id="RecentFiles" />
   <action id="RemoteHostView.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
