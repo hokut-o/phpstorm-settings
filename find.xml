@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.styl" />
+    <option name="FILE_MASK" value="*.sass" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -17,12 +17,12 @@
     <mask>*.</mask>
     <mask>*.css</mask>
     <mask>*.scss</mask>
-    <mask>*.sass</mask>
     <mask>*.pug</mask>
     <mask>*.*</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.jade</mask>
     <mask>*.styl</mask>
+    <mask>*.sass</mask>
   </component>
 </application>
