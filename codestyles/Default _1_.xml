@@ -35,11 +35,6 @@
     <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
     <option name="BLANK_LINES_AROUND_NESTED_SELECTOR" value="0" />
   </StylusCodeStyleSettings>
-  <codeStyleSettings language="Blade">
-    <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
@@ -106,10 +101,6 @@
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
-    <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
-    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="SASS">
     <indentOptions>
