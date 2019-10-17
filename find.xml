@@ -25,6 +25,7 @@
     <mask>*.*</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
+    <mask>*.txt</mask>
     <mask>*.html</mask>
   </component>
 </application>
