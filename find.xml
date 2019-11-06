@@ -22,8 +22,8 @@
     <mask>*.pug</mask>
     <mask>*.txt</mask>
     <mask>*.css</mask>
-    <mask>*.*</mask>
     <mask>*.html</mask>
+    <mask>*.*</mask>
     <mask>*.js</mask>
   </component>
 </application>
