@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.styl" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -24,7 +24,7 @@
     <mask>*.pug</mask>
     <mask>*.*</mask>
     <mask>*.conf</mask>
-    <mask>*.html</mask>
     <mask>*.styl</mask>
+    <mask>*.html</mask>
   </component>
 </application>
