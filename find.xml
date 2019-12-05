@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*.*" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -24,9 +24,9 @@
     <mask>*.css</mask>
     <mask>*.txt</mask>
     <mask>*.pug</mask>
-    <mask>*.*</mask>
     <mask>*.conf</mask>
     <mask>*.styl</mask>
     <mask>*.html</mask>
+    <mask>*.*</mask>
   </component>
 </application>
