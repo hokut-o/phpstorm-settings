@@ -17,14 +17,14 @@
     <mask>*.sass</mask>
     <mask>*.jade</mask>
     <mask>*.php</mask>
-    <mask>*.js</mask>
     <mask>*.</mask>
     <mask>*.pug</mask>
     <mask>*.conf</mask>
-    <mask>*.styl</mask>
-    <mask>*.html</mask>
     <mask>*.txt</mask>
     <mask>*.css</mask>
+    <mask>*.styl</mask>
+    <mask>*.js</mask>
+    <mask>*.html</mask>
     <mask>*.*</mask>
   </component>
 </application>
